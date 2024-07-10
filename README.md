@@ -72,6 +72,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Happy coding! If you have any questions, feel free to contact the repository owner.
+Happy coding! If you have any questions, feel free to contact me.
 
 
